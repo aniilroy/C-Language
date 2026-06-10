@@ -1,95 +1,95 @@
 # C-Language
 A collection of C programming exercises, examples, and projects created while learning and mastering the C language.
 
-..........................index............................
-c-programming/
-│
-├── README.md
-├── .gitignore
-│
-├── 01-introduction/
-│   ├── hello_world.c
-│   └── first_program.c
-│
-├── 02-data-types-and-variables/
-│   ├── variables.c
-│   ├── constants.c
-│   └── type_conversion.c
-│
-├── 03-operators/
-│   ├── arithmetic.c
-│   ├── relational.c
-│   └── logical.c
-│
-├── 04-input-output/
-│   ├── scanf_printf.c
-│   └── formatted_io.c
-│
-├── 05-decision-making/
-│   ├── if.c
-│   ├── if_else.c
-│   └── switch.c
-│
-├── 06-loops/
-│   ├── for_loop.c
-│   ├── while_loop.c
-│   └── do_while.c
-│
-├── 07-functions/
-│   ├── user_defined.c
-│   ├── recursion.c
-│   └── call_by_value.c
-│
-├── 08-arrays/
-│   ├── one_dimensional.c
-│   ├── two_dimensional.c
-│   └── matrix_addition.c
-│
-├── 09-strings/
-│   ├── string_length.c
-│   ├── string_copy.c
-│   └── string_compare.c
-│
-├── 10-pointers/
-│   ├── basics.c
-│   ├── pointer_arithmetic.c
-│   └── pointers_and_arrays.c
-│
-├── 11-structures-and-unions/
-│   ├── structure.c
-│   ├── array_of_structures.c
-│   └── union.c
-│
-├── 12-file-handling/
-│   ├── write_file.c
-│   ├── read_file.c
-│   └── append_file.c
-│
-├── 13-dynamic-memory-allocation/
-│   ├── malloc.c
-│   ├── calloc.c
-│   └── realloc.c
-│
-├── 14-preprocessor/
-│   ├── macros.c
-│   └── header_files.c
-│
-├── 15-data-structures/
-│   ├── stack.c
-│   ├── queue.c
-│   ├── linked_list.c
-│   └── binary_tree.c
-│
-├── 16-algorithms/
-│   ├── linear_search.c
-│   ├── binary_search.c
-│   ├── bubble_sort.c
-│   └── selection_sort.c
-│
-└── 17-mini-projects/
-    ├── calculator.c
-    ├── student_management.c
-    └── library_management.c
+..........................index............................<br>
+c-programming/<br>
+│<br>
+├── README.md<br>
+├── .gitignore<br>
+│<br>
+├── 01-introduction/<br>
+│   ├── hello_world.c<br>
+│   └── first_program.c<br>
+│<br>
+├── 02-data-types-and-variables/<br>
+│   ├── variables.c<br>
+│   ├── constants.c<br>
+│   └── type_conversion.c<br>
+│<br>
+├── 03-operators/<br>
+│   ├── arithmetic.c<br>
+│   ├── relational.c<br>
+│   └── logical.c<br>
+│<br>
+├── 04-input-output/<br>
+│   ├── scanf_printf.c<br>
+│   └── formatted_io.c<br>
+│<br>
+├── 05-decision-making/<br>
+│   ├── if.c<br>
+│   ├── if_else.c<br>
+│   └── switch.c<br>
+│<br>
+├── 06-loops/<br>
+│   ├── for_loop.c<br>
+│   ├── while_loop.c<br>
+│   └── do_while.c<br>
+│<br>
+├── 07-functions/<br>
+│   ├── user_defined.c<br>
+│   ├── recursion.c<br>
+│   └── call_by_value.c<br>
+│<br>
+├── 08-arrays/<br>
+│   ├── one_dimensional.c<br>
+│   ├── two_dimensional.c<br>
+│   └── matrix_addition.c<br>
+│<br>
+├── 09-strings/<br>
+│   ├── string_length.c<br>
+│   ├── string_copy.c<br>
+│   └── string_compare.c<br>
+│<br>
+├── 10-pointers/<br>
+│   ├── basics.c<br>
+│   ├── pointer_arithmetic.c<br>
+│   └── pointers_and_arrays.c<br>
+│<br>
+├── 11-structures-and-unions/<br>
+│   ├── structure.c<br>
+│   ├── array_of_structures.c<br>
+│   └── union.c<br>
+│<br>
+├── 12-file-handling/<br>
+│   ├── write_file.c<br>
+│   ├── read_file.c<br>
+│   └── append_file.c<br>
+│<br>
+├── 13-dynamic-memory-allocation/<br>
+│   ├── malloc.c<br>
+│   ├── calloc.c<br>
+│   └── realloc.c<br>
+│<br>
+├── 14-preprocessor/<br>
+│   ├── macros.c<br>
+│   └── header_files.c<br>
+│<br>
+├── 15-data-structures/<br>
+│   ├── stack.c<br>
+│   ├── queue.c<br>
+│   ├── linked_list.c<br>
+│   └── binary_tree.c<br>
+│<br>
+├── 16-algorithms/<br>
+│   ├── linear_search.c<br>
+│   ├── binary_search.c<br>
+│   ├── bubble_sort.c<br>
+│   └── selection_sort.c<br>
+│<br>
+└── 17-mini-projects/<br>
+    ├── calculator.c<br>
+    ├── student_management.c<br>
+    └── library_management.c<br>
 
 
 
